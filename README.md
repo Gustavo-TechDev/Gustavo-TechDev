@@ -2,7 +2,15 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Olá, meu nome é Gustavo!
+
+Sou um profissional com 8 anos de experiência em atendimento ao público, durante os quais desenvolvi uma sólida base de conhecimento em estratégias de atendimento em diversas situações com clientes.
+
+Formado em Design Gráfico e pós-graduado em Comunicação e Mídia, busquei complementar minha formação com estudos nas áreas de marketing digital e inbound marketing. Também obtive certificações do Google, como Métricas do Google Ads e Display do Google Ads.
+
+Nos últimos meses, venho aprofundando meus conhecimentos no universo da tecnologia, com foco no desenvolvimento front-end. Esse campo me entusiasma, e futuramente pretendo seguir uma carreira como desenvolvedor ou analista, seja para uma empresa, ou como freelancer.
+
+Estou sempre em busca de novos desafios e oportunidades para aplicar meu aprendizado e contribuir com soluções criativas e eficazes, tanto na área de Comunicação quanto na área de Tecnologia.</p>
 
 ###
 
