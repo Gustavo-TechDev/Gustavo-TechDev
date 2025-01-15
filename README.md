@@ -1,4 +1,4 @@
-<h2 align="left">About Me</h2>
+<h3 align="left">About Me</h3>
 
 ###
 
@@ -14,7 +14,7 @@ Estou sempre em busca de novos desafios e oportunidades para aplicar meu aprendi
 
 ###
 
-<h2 align="left">Techs</h2>
+<h3 align="left">Techs</h3>
 
 ###
 
@@ -26,7 +26,7 @@ Estou sempre em busca de novos desafios e oportunidades para aplicar meu aprendi
 
 ###
 
-<h2 align="left">Stats</h2>
+<h3 align="left">Stats</h3>
 
 ###
 
@@ -38,7 +38,7 @@ Estou sempre em busca de novos desafios e oportunidades para aplicar meu aprendi
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h3 align="left">Social Media</h3>
 
 ###
 
