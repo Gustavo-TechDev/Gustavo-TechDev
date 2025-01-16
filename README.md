@@ -4,7 +4,7 @@
 
 <p align="left">Olá, meu nome é Gustavo!
 
-Sou um profissional com 8 anos de experiência em atendimento ao público, durante os quais desenvolvi uma sólida base de conhecimento em estratégias de atendimento em diversas situações com clientes.
+Sou um profissional com 8 anos de experiência em atendimento ao público, durante os quais desenvolvi uma sólida base de conhecimento em estratégias de atendimento ao cliente em diversas situações.
 
 Sou formado em Design Gráfico e pós-graduado em Comunicação e Mídia, também busquei complementar minhas graduações com estudos nas áreas de marketing digital e inbound marketing. Obtive certificações do Google, como Métricas do Google Ads e Display do Google Ads.
 
