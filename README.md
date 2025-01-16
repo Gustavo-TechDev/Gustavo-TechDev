@@ -8,7 +8,7 @@ Sou um profissional com 8 anos de experiência em atendimento ao público, duran
 
 Sou formado em Design Gráfico e pós-graduado em Comunicação e Mídia, também busquei complementar minhas graduações com estudos nas áreas de marketing digital e inbound marketing. Obtive certificações do Google, como Métricas do Google Ads e Display do Google Ads.
 
-Nos últimos meses, venho aprofundando meus conhecimentos no universo da tecnologia, com foco no desenvolvimento Frontend, e tenho a expectativa de também poder colocar esses conhecimentos em prática em oportunidades futuras de trabalho, contribuindo para projetos interessantes e desafiadores.
+Nos últimos meses, venho aprofundando meus conhecimentos no universo da tecnologia, com foco no desenvolvimento Frontend, e tenho a expectativa de também poder colocar esses conhecimentos em prática em futuras oportunidades de trabalho, contribuindo para projetos interessantes e desafiadores.
 
 Estou sempre em busca de novos desafios e oportunidades para aplicar meu aprendizado e contribuir com soluções criativas e eficazes, tanto na área da Comunicação quanto na área da Tecnologia.</p>
 
