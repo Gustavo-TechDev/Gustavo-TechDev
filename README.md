@@ -6,7 +6,7 @@
 
 Sou um profissional com 8 anos de experiência em atendimento ao público, durante os quais desenvolvi uma sólida base de conhecimento em estratégias de atendimento em diversas situações com clientes.
 
-Sou formado em Design Gráfico e pós-graduado em Comunicação e Mídia, também busquei complementar minhas graduações com estudos nas áreas de marketing digital e inbound marketing. Também obtive certificações do Google, como Métricas do Google Ads e Display do Google Ads.
+Sou formado em Design Gráfico e pós-graduado em Comunicação e Mídia, também busquei complementar minhas graduações com estudos nas áreas de marketing digital e inbound marketing. Obtive certificações do Google, como Métricas do Google Ads e Display do Google Ads.
 
 Nos últimos meses, venho aprofundando meus conhecimentos no universo da tecnologia, com foco no desenvolvimento Frontend, e tenho a expectativa de também poder colocar esses conhecimentos em prática em oportunidades futuras de trabalho, contribuindo para projetos interessantes e desafiadores.
 
